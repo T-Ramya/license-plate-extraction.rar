@@ -1,4 +1,5 @@
 Steps
+
 1.Download and install Node.js in this link https://nodejs.org/en/
 
 2.Download tesseract.js in this link https://github.com/naptha/tesseract.js/tree/support/1.x

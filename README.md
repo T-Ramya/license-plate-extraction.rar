@@ -1,1 +1,1 @@
-# license-plate-extraction.rar
+# license-plate-extraction
